@@ -41,7 +41,7 @@ timezone:      null
 #Site config
 title: 王波的博客
 description: 做个终身学习者
-keywords: Jekyll Theme
+keywords: 学习
 url: http://sherebwang.github.io/
 feed: /atom.xml
 favicon: http://jekyllrb.com/favicon.png
@@ -91,8 +91,8 @@ customLinks:
       url: http://www.52chushu.com
     - text: Jekyll
       url: http://jekyllrb.com
-    - text: Jekyll Theme
-      url: http://www.zhanxin.info/themes.html
+    - text: 阳老博客
+      url: http://www.yangzhiping.com
     message: Friends
   - item:
     - text: Font Awesome
