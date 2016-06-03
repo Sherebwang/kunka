@@ -39,8 +39,8 @@ timezone:      null
 
 
 #Site config
-title: Jekyll Theme
-description: Just another Jekyll theme design and code by zhanxin.info.
+title: 王波的博客
+description: 做个终身学习者
 keywords: Jekyll Theme
 url: http://sherebwang.github.io/
 feed: /atom.xml
