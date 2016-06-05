@@ -87,7 +87,7 @@ follow:
 #Links
 customLinks:
   - item:
-     - text: 笑来老师
+    - text: 笑来老师
       url: http://xiaolai.li/
     - text: 出书
       url: http://www.52chushu.com
