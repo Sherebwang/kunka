@@ -50,14 +50,13 @@ favicon: http://jekyllrb.com/favicon.png
 nav:
   - text: 首页
     url: /index.html
-  - text: 分类目录 
-    url: /categories.html
-  - text: 文章归档
-    url: /archives.html
+  - text: 随笔 
+    url: /info
+  - text: 思考
+    url: /think
   - text: 联系我
     url: /contact.html
-  - text: 友情链接
-    url: /links.html
+ 
 
 #Author config
 author:
